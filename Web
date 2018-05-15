@@ -2,7 +2,8 @@
 <html>
   <!--头部开始-->
   <head>
-    <title>网页标题</title>
+    <title>企鹅</title>
+    <link rel="icon" href="favicon-20180515031154888.ico" type="image/x-icon"/>
   </head>
   <!--头部结束-->
   <!--主体开始-->
